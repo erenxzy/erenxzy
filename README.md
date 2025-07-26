@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy <span style="color:#00FFFF;">FANTOM330</span></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SUenXNiD9sRoc/giphy.gif" width="200" />
+  <img src="https://files.catbox.moe/lhsvsw.png" width="200" />
 </p>
 
 <p align="center">
