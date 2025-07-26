@@ -1,61 +1,49 @@
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00ffff; font-size: 42px;">
-  👾 ERENXSZY ─ ARQUITECTO DIGITAL DEL FUTURO 👾
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=800&size=36&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=✦+ERENXSZY+✦" alt="ERENXSZY ANIMADO" />
+</p>
 
 <p align="center">
   <img src="https://files.catbox.moe/lhsvsw.png" width="180" alt="Erenxszy Avatar" />
 </p>
 
 <p align="center">
-  <i style="color:#c0c0c0">🔧 Modificador de Bots │ Desarrollador Multiplataforma │ Web Architect 🌐</i>
+  <i style="color:#c0c0c0">🔧 Modificador de Bots │ Web Developer │ Creador en Discord y Telegram 👾</i>
 </p>
 
 ---
 
 ## 🌐 Sobre Mí
 
-> Soy <strong style="color:#00ffe1;">Erenxszy</strong>, un **modificador y creador de bots avanzados** para plataformas como **WhatsApp**, **Discord** y **Telegram**, además de desarrollador de **sitios web modernos y responsivos**. Trabajo con visión creativa, estética tech y código funcional.
+> Soy <strong style="color:#00ffe1;">Erenxszy</strong>, un **modificador avanzado de bots de WhatsApp**, y desarrollador creativo de **webs y bots personalizados para Discord y Telegram**. Enfocado en la estética, rendimiento y automatización.
 
-- 💻 Experiencia en **JavaScript**, **Node.js**, **HTML/CSS**, **Python**.
-- 🤖 Dominio completo en creación, modificación y personalización de bots.
-- 🌍 Construyo interfaces limpias, web responsivas y optimizadas para todos los dispositivos.
-- 🔄 Siempre aprendiendo, mejorando y automatizando.
-
----
-
-## 🚀 Plataformas que Domino
-
-| Plataforma  | Rol / Trabajo                                  |
-|-------------|------------------------------------------------|
-| 🟢 WhatsApp | Modificación y desarrollo de bots tipo MD      |
-| 💠 Discord  | Creación de bots para gestión, música y más     |
-| 🔵 Telegram | Desarrollo de bots funcionales y ligeros       |
-| 🌐 Web      | Sitios personales, landing pages y dashboards  |
+- 💻 Especialista en **Node.js**, **JavaScript**, **HTML/CSS**, **Discord.js**, **Baileys**.
+- 🎯 Me apasiona crear soluciones útiles, limpias y estables.
+- ⚡ Siempre buscando formas nuevas de automatizar e innovar.
+- 🌌 Visión tech, mentalidad de mejora continua.
 
 ---
 
-## ✨ Proyectos Relevantes
+## 🚀 Plataformas en las que trabajo
 
-### ⚔️ FenrysBot
-> Bot completo para WhatsApp, ideal para grupos con comandos personalizados, seguridad y eficiencia.
-
-### 🌪 GonBot
-> Bot rápido, fluido y liviano. Perfecto para uso personal o moderación discreta.
-
-### 💋 RiasBot
-> Estética + comandos 18+ controlados + funciones para comunidad privada.
-
-### 🌐 Webs Personalizadas
-> Desde landing pages hasta paneles de control: interfaces limpias, dark mode y totalmente responsivas.
+| Plataforma  | Especialidad                                      |
+|-------------|--------------------------------------------------|
+| 🟢 WhatsApp | Bots MD editados y optimizados                   |
+| 💠 Discord  | Bots desde 0 para gestión, música, juegos        |
+| 🔵 Telegram | Bots para notificaciones, grupos y respuestas    |
+| 🌐 Web      | Sitios personales, portafolios, paneles privados |
 
 ---
 
-## 🧠 Habilidades Clave
+## 💼 Proyectos Relevantes
 
-- 🔧 Modding avanzado de estructuras Baileys y Discord.js
-- 🎛️ Integración de APIs, comandos automatizados y anti-spam
-- 🌈 Diseño web atractivo y funcional
-- 💼 Soporte técnico privado y mejoras a medida
+### ⚔️ FenrysBot  
+> Bot ultra rápido, con comandos poderosos, personalización y seguridad.  
+### 🌪 GonBot  
+> Alternativa ligera con foco en eficiencia y rendimiento.  
+### 💋 RiasBot  
+> Bot con estética única y comandos avanzados para comunidades privadas.  
+### 🌍 Web Projects  
+> Páginas dinámicas, modernas y optimizadas para cualquier dispositivo.
 
 ---
 
@@ -67,11 +55,9 @@
   </a>
 </p>
 
-> Escríbeme si deseas bots personalizados, páginas web, soporte privado o colaboración profesional.
-
 ---
 
-## 📊 Estadísticas GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erenxzy&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
@@ -84,14 +70,6 @@
 
 ---
 
-## 🧬 Extras
-
-- 🔐 Todos mis bots cuentan con funciones privadas y protegidas.
-- 🚫 No uso bases públicas sin modificaciones avanzadas.
-- 🛡️ Servicios disponibles solo para quienes buscan calidad, no cantidad.
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=⚡+Crea+tu+propio+ecosistema+digital.;🤖+Domina+todas+las+plataformas.;🌐+Construye+con+visión+profesional."/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=⚡+Bots+con+visión.;🌐+Automatización+con+estilo.;🎯+Eficiencia+y+calidad+en+cada+línea."/>
 </p>
