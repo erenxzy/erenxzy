@@ -1,20 +1,20 @@
-<h1 align="center">¡Hola! 👋 Soy <span style="color:#00FFFF;">FANTOM330</span></h1>
+<h1 align="center">¡Hola! 👋 Soy <span style="color:#00FFFF;">Erenxszy</span></h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/lhsvsw.png" width="200" />
 </p>
 
 <p align="center">
-  <i>Desarrollador apasionado por la automatización, los bots, y el mundo del código ☕⚙️</i>
+  <i>Modificador apasionado por la automatización, los bots, y el mundo del código👨🏻‍💻🔰</i>
 </p>
 
 ---
 
-## 📱 Contáctame
+## 📱 Contáctame Para Preguntas ✨
 
 <p align="center">
-  <a href="https://wa.me/50231458537" target="_blank">
-    <img src="https://img.shields.io/badge/💬%20WhatsApp-FANTOM330-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://wa.me/18493907272" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-Erenxszy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
