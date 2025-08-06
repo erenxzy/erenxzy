@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/lhsvsw.png" width="180" alt="Erenxszy Avatar" />
+  <img src="https://github.com/erenxzy.png" width="180" alt="Erenxszy Avatar" />
 </p>
 
 <p align="center">
