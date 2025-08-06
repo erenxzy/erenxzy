@@ -36,6 +36,12 @@
 
 ## ✨ Proyectos Relevantes
 
+### ❄️ RukiaBot
+> Bot elegante inspirado en Rukia, con comandos útiles, estética única y pensado para comunidades activas.
+
+### 🎶 Hatsune-UltraBot
+> Inspirado en Hatsune Miku 💙🎤, con comandos variados, estética kawaii y soporte para múltiples sub-bots.
+
 ### ⚔️ FenrysBot
 > Bot completo para WhatsApp, ideal para grupos con comandos personalizados, seguridad y eficiencia.
 
