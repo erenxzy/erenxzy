@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00ffff; font-size: 42px;">
-   ERENXSZY 👨🏻‍💻✨
+   𝙀𝙍𝙀𝙉𝙓𝙕𝙔👨🏻‍💻
 </h1>
 
 <p align="center">
